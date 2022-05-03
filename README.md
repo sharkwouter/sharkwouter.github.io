@@ -32,6 +32,8 @@
 
 ![](https://chimeraos.org/screenshots/01f.png)
 
+## gridscale Terraform Provider
+
 # Talks
 
 ## PSP Homebrew Developer Conference 2022
