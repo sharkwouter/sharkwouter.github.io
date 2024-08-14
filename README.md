@@ -36,6 +36,10 @@
 
 # Talks
 
+## PSP Homebrew Developer Conference 2024
+
+<iframe width="894" height="503" src="https://www.youtube.com/embed/0rxTPSFSC-k?start=5224&end=6106" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## PSP Homebrew Developer Conference 2022
 
 <iframe width="894" height="503" src="https://www.youtube.com/embed/bHY45QfGRc4?start=1745&end=2855" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
