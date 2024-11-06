@@ -1,6 +1,6 @@
 # Wouter Wijsman's Portfolio
 
-This is a simple portfolio website. The content of it is owned by me and is not allowed to be reused, but feel free to see the code as being public domain and use it for your own purposes.
+This is a simple portfolio website. The content of it is owned by me and is not allowed to be reused, but feel free to use the code your own purposes.
 
 ## Build locally
 
