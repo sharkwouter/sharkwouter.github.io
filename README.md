@@ -1,5 +1,7 @@
 # Wouter Wijsman's Portfolio
 
+This is a simple portfolio website. The content of it is owned by me and is not allowed to be reused, but feel free to see the code as being public domain and use it for your own purposes.
+
 ## Build locally
 
 First, follow the instructions for your system to install the dependencies for building on [this page](https://jekyllrb.com/docs/installation/).
