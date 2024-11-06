@@ -4,8 +4,6 @@ modal-id: 1
 title: Minigalaxy
 img: minigalaxy.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+website: https://sharkwouter.github.io/minigalaxy/
+description: Minigalaxy is a client for downloading and playing games purchased on the GOG game store on Linux. When I started this project, the only other option was Lutris, so people quickly adopted the easy to use Minigalaxy. It has been downloaded at least tens of thousands of times. The project has grown with contributions from over 50 different people and it got translated into over 20 different languages.
 ---

@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+title: OceanPop
+img: oceanpop.png
+alt: image-alt
+website: https://sharkwouter.github.io/oceanpop/
+description: OceanPop is a match 3 puzzle game which requires to user reach the required amount of matches in a limited amount of moves. It was developed from the ground up to be multi-platform and it runs on Linux, Windows, Playstation Portable, Playstation Vita and the Wii. I used this project to learn C++ and SDL.
+---

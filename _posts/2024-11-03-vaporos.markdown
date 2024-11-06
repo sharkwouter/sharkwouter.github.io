@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 4
+img: vaporos.jpg
+alt: VaporOS screenshot
+website: https://sharkwouter.github.io/vaporos/
+description: VaporOS is a fork I made of the in 2014 released SteamOS, which is an operating system specifically made for playing games from the comfort of the couch. VaporOS added multimedia features and made the desktop that was offered as an option much more usable. It also included support for creating screenshots and recording gameplay with button combinations on a gamepad, which was not initially offered by Valve.
+---

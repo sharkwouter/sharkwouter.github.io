@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 8
+title: SDL
+img: SDL.png
+alt: SDL logo
+website: https://libsdl.org/
+description: SDL is a library which abstracts system specific APIs for game development in C and C++, allowing the same code to run on multiple platforms. I've upstreamed, maintained and added new features to the Playstation Portable port of SDL2 and SDL3.
+---
