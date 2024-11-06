@@ -1,3 +1,48 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# Site settings
 title: Wouter Wijsman
-description: Linux - Open Source - Gaming
+url: https://github.com/sharkwouter/
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Software Development - Open Source - Gaming"
+meta_author: Wijsman Wouter
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 7C93C3 #80B3FF
+  primary-rgb: "124, 147, 195" #"128,179,255"
+  secondary: 55679C #FD6E8A
+  secondary-dark: 1E2A5E #A2122F
+  default: fff
+
+# Footer settings
+footer:
+  copyright: Wouter Wijsman
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/sharkwouter
+  - title: linkedin
+    url: https://www.linkedin.com/in/wouter-wijsman-a00325b7/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Cologne, Germany
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
