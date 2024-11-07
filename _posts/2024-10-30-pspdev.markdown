@@ -5,5 +5,5 @@ title: PSPDEV
 img: pspdev.jpeg
 alt: PSPDEV logo
 website: https://pspdev.github.io/
-description: PSPDEV a community based software development kit for Playstation Portable software. Since I joined this project I've been able to push for more automation, better documentation and improved ease of use with incredible success. We now have fully automated builds for all our tools, CMake support, over 70 packaged libraries installable with a package manager and a website with beginner friendly installation and usage instructions. I've contributed significantly to all of these. I've also been maintaining the GitHub repos and involved others in doing so as well. 
+description: PSPDEV a community based software development kit for Playstation Portable software. Since I joined this project I've been able to push for more automation, better documentation and improved ease of use with incredible success. We now have fully automated builds for all our tools, CMake support, over 70 packaged libraries installable with a package manager and a website with beginner friendly installation and usage instructions. I've had a leading role in all of these. I've also been maintaining the GitHub repos and involved others in doing so as well. 
 ---
